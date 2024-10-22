@@ -78,6 +78,7 @@
 <h2 align="center">Me in a nutshell</h2>
 <div align="center">
   <img src="https://github.com/Yoyobun1/Yoyobun1/blob/main/assets/right_gif.gif" alt="Right GIF" style="width: 300px; height: auto;"/>
+  <img src="https://github.com/Yoyobun1/Yoyobun1/blob/main/assets/meme.jpg" alt="Right GIF" style="width: 300px; height: auto;"/>
 </div>
 
 
