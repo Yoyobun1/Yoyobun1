@@ -69,22 +69,6 @@
   <img src="https://streak-stats.demolab.com?user=Yoyobun1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-
-
-
-
-
-
-<h2 align="center">Me in a nutshell</h2>
 <div align="center">
   <img src="https://github.com/Yoyobun1/Yoyobun1/blob/main/assets/meme.jpg" alt="Meme Image" style="width: 600px; height: auto;"/>
 </div>
-
-
-
-
-
-
-
-
-
